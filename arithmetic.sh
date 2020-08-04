@@ -1,4 +1,5 @@
 #!/bin/bash -x
+echo "WECOME OF THE PROGRAM BEING SOLVED BY IN THE MSTER BRANCH"
 read -p "enter first number: " a
 read -p "enter second number: " b
 read -p "enter third number: " c
